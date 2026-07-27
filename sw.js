@@ -1,6 +1,12 @@
-const CACHE = "geo-europa-v3";
+const CACHE = "geo-world-v4";
 const BASE = new URL(self.registration.scope).pathname.replace(/\/$/, "");
-const CORE = [`${BASE}/`, `${BASE}/manifest.webmanifest`, `${BASE}/favicon.svg`];
+const CORE = [
+  `${BASE}/`,
+  `${BASE}/manifest.webmanifest`,
+  `${BASE}/geo-app-icon-192.png`,
+  `${BASE}/geo-app-icon-512.png`,
+  `${BASE}/apple-touch-icon.png`,
+];
 
 self.addEventListener("install", (event) => {
   event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(CORE)));

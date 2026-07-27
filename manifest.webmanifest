@@ -1,7 +1,7 @@
 {
-  "name": "Geo — Train Europa",
+  "name": "Geo — Train Europa & Azië",
   "short_name": "Geo",
-  "description": "Leer Europese vlaggen, landen, contouren en hoofdsteden.",
+  "description": "Leer vlaggen, landen, contouren en hoofdsteden van Europa en Azië.",
   "start_url": "/GeoTrainerGlenn/",
   "display": "standalone",
   "background_color": "#f4f3ef",
@@ -9,10 +9,22 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "/GeoTrainerGlenn/favicon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "src": "/GeoTrainerGlenn/geo-app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/GeoTrainerGlenn/geo-app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/GeoTrainerGlenn/geo-app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ],
   "scope": "/GeoTrainerGlenn/"
