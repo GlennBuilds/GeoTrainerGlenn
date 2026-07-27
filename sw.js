@@ -1,4 +1,4 @@
-const CACHE = "geo-world-v5";
+const CACHE = "geo-world-v6";
 const BASE = new URL(self.registration.scope).pathname.replace(/\/$/, "");
 const CORE = [
   `${BASE}/`,
