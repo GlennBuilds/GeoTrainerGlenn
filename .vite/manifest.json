@@ -11,7 +11,7 @@
     "name": "rolldown-runtime"
   },
   "app/GeoTrainer.tsx": {
-    "file": "assets/GeoTrainer-DyJXA8eI.js",
+    "file": "assets/GeoTrainer-CSpRu0z5.js",
     "name": "GeoTrainer",
     "src": "app/GeoTrainer.tsx",
     "isDynamicEntry": true,
@@ -21,7 +21,7 @@
     ]
   },
   "node_modules/.pnpm/vinext@0.0.50_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild@0.28._6558342ba0b940cbd621b36b626ca262/node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "assets/layout-segment-context-DBRZqxsH.js",
+    "file": "assets/layout-segment-context-dc6DcHF0.js",
     "name": "layout-segment-context",
     "src": "node_modules/.pnpm/vinext@0.0.50_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild@0.28._6558342ba0b940cbd621b36b626ca262/node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -32,7 +32,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "assets/index-7Hy-7njN.js",
+    "file": "assets/index-CmuagwLG.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
