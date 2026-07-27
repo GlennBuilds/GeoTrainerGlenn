@@ -1,0 +1,19 @@
+{
+  "name": "Geo — Train Europa",
+  "short_name": "Geo",
+  "description": "Leer Europese vlaggen, landen, contouren en hoofdsteden.",
+  "start_url": "/GeoTrainerGlenn/",
+  "display": "standalone",
+  "background_color": "#f4f3ef",
+  "theme_color": "#f4f3ef",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/GeoTrainerGlenn/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "scope": "/GeoTrainerGlenn/"
+}
